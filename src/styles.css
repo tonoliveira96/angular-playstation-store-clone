@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -7,5 +8,5 @@
 
 body {
   background: rgb(2, 0, 36);
-  background: linear-gradient(90deg, rgba(2, 0, 36, 2) 0%, rgba(9, 9, 121, 1) 35%, rgba(9, 9, 121, 1) 100%);
+  /* background: linear-gradient(90deg, #020024 0%, #090979 35%, #090979 100%); */
 }
